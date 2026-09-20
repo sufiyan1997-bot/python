@@ -10,4 +10,4 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 img.save("my_qrcode.png")
 
-print("Success! 'my_qrcode.png' file aapke folder mein save ho gayi hai.")
+print("Success! 'my_qrcode.png' file save in a folder.")
